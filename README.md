@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Contributed to the following Projects:
+
+Secure Secret-Sharing Database
+https://github.com/ShovalYarkoni/secretSkyDB
+
+Online Market Demo
+https://github.com/AlekseiTovkachev/shukersal-deal
+
+
 <!--
 **yuvalsegevv/yuvalsegevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
