@@ -8,6 +8,8 @@ https://github.com/ShovalYarkoni/secretSkyDB
 Online Market Demo
 https://github.com/AlekseiTovkachev/shukersal-deal
 
+Supermarket Management System (posted in gitlab)
+https://gitlab.com/bgu_adss_group_d/ADSS_Group_D/-/tree/merger/dev/src?ref_type=heads
 
 <!--
 **yuvalsegevv/yuvalsegevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
